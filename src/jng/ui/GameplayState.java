@@ -214,8 +214,8 @@ public class GameplayState extends BasicGameState {
 		g.resetTransform();
 		g.setColor(Color.white);
 		if (isGamePaused())
-			g.drawString("Spiel pausiert", 
-					Controls.displayResolution.x/2-new String("Spiel pausiert").length()/2, 
+			g.drawString("Game paused", 
+					Controls.displayResolution.x/2-new String("Game paused").length()/2, 
 					Controls.displayResolution.y/2-50);
 	}
 

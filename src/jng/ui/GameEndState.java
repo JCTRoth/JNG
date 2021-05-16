@@ -42,13 +42,13 @@ public class GameEndState extends BasicButtonGameState {
     	SoundManager.getInstance().setVolumeControl(stateID);
     	
     	// Label
-    	labels.add(new Label(won ? "Sie haben gewonnen!" : "Sie haben verloren." , new Vector2f(res.x/2, res.y/2-BasicButtonGameState.buttonSize.y*2)));
+    	labels.add(new Label(won ? "You have won!" : "You have lost." , new Vector2f(res.x/2, res.y/2-BasicButtonGameState.buttonSize.y*2)));
     	
     	// initiate buttons
     	Entity back_to_menu_Entity = addButton((int)(res.x/2+BasicButtonGameState.buttonSize.x/2+25), 
 				res.y/2, 
 				BasicButtonGameState.buttonSize, 
-				"Zurück zum\nHauptmenü",
+				"Back to main menu",
 				"/assets/button.png");
     	
 		// Erstelle das Ausloese-Event und die zugehoerige Action
@@ -62,7 +62,7 @@ public class GameEndState extends BasicButtonGameState {
     	Entity restart_Entity = addButton((int)(res.x/2-BasicButtonGameState.buttonSize.x/2-25), 
 				res.y/2, 
 				BasicButtonGameState.buttonSize, 
-				"Neustarten",
+				"Restart",
 				"/assets/button.png");
     	mainEvents = new ANDEvent(new MouseEnteredEvent(), new MouseClickedEvent());
     	Action restart_Action = new ChangeStateInitAction(Jng.GAMEPLAY_STATE);

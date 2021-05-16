@@ -42,7 +42,7 @@ public class ControlsState extends BasicButtonGameState{
 		Entity back_to_menu_Entity = addButton(250, 
 				res.y-100, 
 				BasicButtonGameState.buttonSize, 
-				"Zurück zum\nHauptmenü",
+				"Back to main menu",
 				"/assets/button.png");
     	
     	ANDEvent mainEvents = new ANDEvent(new MouseEnteredEvent(), new MouseClickedEvent());

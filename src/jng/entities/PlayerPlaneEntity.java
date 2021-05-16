@@ -187,7 +187,7 @@ public class PlayerPlaneEntity extends GameEntity {
 	@Override
 	public void render(GameContainer gc, StateBasedGame sb, Graphics g) {
 		super.render(gc, sb, g);
-		String lifes = "Leben: ";
+		String lifes = "Lives: ";
 		int offset = 40;
 		int offsetHearts = 110;
 		if (Controls.playerCount == 1)

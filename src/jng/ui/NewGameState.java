@@ -48,7 +48,7 @@ public class NewGameState extends BasicButtonGameState {
     	Entity back_button = addButton(offsetX, 
 				nRows * distanceY + offsetY, 
 				BasicButtonGameState.buttonSize, 
-				"Zurueck",
+				"Back",
 				"/assets/button.png");
 		// Erstelle das Ausloese-Event und die zugehoerige Action
     	ANDEvent mainEvents = new ANDEvent(new MouseEnteredEvent(), new MouseClickedEvent());
@@ -67,19 +67,19 @@ public class NewGameState extends BasicButtonGameState {
 				switch(missionCounter)
 				{
 				case 0:
-					name = "Winzig";
+					name = "Tiny";
 					break;
 				case 1:
-					name = "Klein";
+					name = "Small";
 					break;
 				case 2:
 					name = "Normal";
 					break;
 				case 3:
-					name = "Gross";
+					name = "Big";
 					break;
 				case 4:
-					name = "Gigantisch";
+					name = "Huge";
 					break;
 				default:
 					name = "Normal";

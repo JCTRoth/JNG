@@ -13,12 +13,7 @@ import org.newdawn.slick.util.Log;
 import eea.engine.entity.StateBasedEntityManager;
 import jng.actions.sound.SoundManager;
 
-/**
- * @author Timo Bähr
- *
- * Diese Klasse startet das Spiel "Drop of Water". Es enthaelt
- * zwei State's für das Menue und das eigentliche Spiel.
- */
+
 public class Jng extends StateBasedGame {
 	
 	
@@ -41,7 +36,6 @@ public class Jng extends StateBasedGame {
     public static void main(String[] args) throws SlickException
     {	
     	// Setze den library Pfad abhaengig vom Betriebssystem
-    	System.out.println(System.getProperty("user.dir") + "/native/linux");
     	if (System.getProperty("os.name").toLowerCase().contains("windows")) { ;
     		System.setProperty("org.lwjgl.librarypath",System.getProperty("user.dir") + "/native/windows");
     	} else if (System.getProperty("os.name").toLowerCase().contains("mac")) {

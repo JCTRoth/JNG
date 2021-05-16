@@ -63,7 +63,7 @@ public class MainMenuState extends BasicButtonGameState {
     			Controls.displayResolution.x/2, 
     			distanceCounter, 
     			buttonSize, 
-    			"1 Spieler",
+    			"1 Player",
     			"/assets/button.png");
     	distanceCounter += distance;
     	
@@ -89,7 +89,7 @@ public class MainMenuState extends BasicButtonGameState {
     			Controls.displayResolution.x/2, 
     			distanceCounter, 
     			buttonSize, 
-    			"2 Spieler",
+    			"2 Player",
     			"/assets/button.png"); 
     	distanceCounter += distance;
     	
@@ -114,7 +114,7 @@ public class MainMenuState extends BasicButtonGameState {
     			Controls.displayResolution.x/2, 
     			distanceCounter, 
     			buttonSize, 
-    			"3 Spieler",
+    			"3 Player",
     			"/assets/button.png"); 
     	distanceCounter += distance;
     	
@@ -140,7 +140,7 @@ public class MainMenuState extends BasicButtonGameState {
     			Controls.displayResolution.x/2, 
     			distanceCounter, 
     			buttonSize, 
-    			"Steuerung",
+    			"Control",
     			"/assets/button.png"); 
     	distanceCounter += distance;
     	
@@ -157,7 +157,7 @@ public class MainMenuState extends BasicButtonGameState {
     			Controls.displayResolution.x/2, 
     			distanceCounter, 
     			buttonSize, 
-    			"Beenden",
+    			"End",
     			"/assets/button.png"); 
     	distanceCounter += distance;
     	
