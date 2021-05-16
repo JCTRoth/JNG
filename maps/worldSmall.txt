@@ -1,0 +1,1309 @@
+Level ExampleWorld 56450.0 /assets/background.png 0.05 1440 900
+Structure 1000.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 1100.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 1200.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 1300.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 1400.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 1500.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 1600.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 1700.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 1800.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 1900.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 1125.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 1175.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 1225.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 1275.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 1325.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 1375.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 1425.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 1200.0 250.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 1300.0 250.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 0
+Structure 2000.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2100.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2200.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2300.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2400.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2500.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2600.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2700.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2800.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2900.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3000.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3100.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3200.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3300.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3400.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3500.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3600.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3700.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3800.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3900.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2425.0 387.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 2425.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2425.0 725.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2425.0 675.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2425.0 625.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2425.0 575.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2425.0 525.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2425.0 475.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2425.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2425.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2425.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2425.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2425.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2425.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2425.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2725.0 687.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 2725.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2725.0 600.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2725.0 550.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2725.0 500.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2725.0 450.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2725.0 400.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2725.0 350.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2725.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2725.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2725.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2725.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2725.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2725.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 2725.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3025.0 387.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 3025.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3025.0 725.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3025.0 675.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3025.0 625.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3025.0 575.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3025.0 525.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3025.0 475.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3025.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3025.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3025.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3025.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3025.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3025.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3025.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3325.0 687.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 3325.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3325.0 600.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3325.0 550.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3325.0 500.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3325.0 450.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3325.0 400.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3325.0 350.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3325.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3325.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3325.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3325.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3325.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3325.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 3325.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4000.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4100.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4200.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4300.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4400.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4500.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4600.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4700.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4800.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4900.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 5000.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 5100.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 5200.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 5300.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 5400.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 5500.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 5600.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 5700.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 5800.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 5900.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 6000.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 6100.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4425.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4450.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4550.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4650.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4750.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4825.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4850.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4950.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 5050.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 5150.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 5225.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 5250.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 5350.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 5450.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 5550.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4350.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4350.0 350.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4350.0 250.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4350.0 150.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4350.0 50.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 4350.0 -50.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 6200.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 6300.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 6400.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 6500.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 6588.0 881.89124 0.0 1.0 building /assets/buildings/building2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 6699.0 752.5459 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 6845.0 890.308 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 6974.0 776.1205 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 7123.0 774.89545 0.0 1.0 building /assets/buildings/building5.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 7272.0 904.9475 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 7421.0 894.6717 0.0 1.0 building /assets/buildings/building5.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 7552.0 904.0989 0.0 1.0 building /assets/buildings/building2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 7663.0 869.0234 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 7846.5 916.14734 0.0 1.0 building /assets/buildings/building6.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 7995.0 927.86395 0.0 1.0 building /assets/buildings/building2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 8126.0 830.1331 0.0 1.0 building /assets/buildings/building5.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 8257.0 784.0183 0.0 1.0 building /assets/buildings/building2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 8388.0 913.4064 0.0 1.0 building /assets/buildings/building5.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 8574.0 893.3618 0.0 1.0 building /assets/buildings/building5.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 8777.5 868.9635 0.0 1.0 building /assets/buildings/building6.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 8998.5 751.1184 0.0 1.0 building /assets/buildings/building6.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 9202.0 756.9368 0.0 1.0 building /assets/buildings/building5.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 9351.0 764.10187 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 9500.0 767.7359 0.0 1.0 building /assets/buildings/building5.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 9643.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 9743.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 9843.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 9943.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 10043.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 10143.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 10243.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 10343.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 10443.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 10543.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 10643.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 10743.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 10843.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 10943.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 11043.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 11143.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 11243.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 11343.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 11443.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 11543.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 11643.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 11743.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 11843.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 11943.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 12043.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 12143.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 12243.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 12343.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 12443.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 12543.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 12643.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 12743.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 12843.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 12943.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13043.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13143.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13243.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13343.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13443.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 10343.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 10343.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 10468.0 750.0 0.0 0.5 BoxBigWidth /assets/structures/boxBigWidth.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 10518.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 10593.0 725.0 0.0 0.5 BoxBigHeight /assets/structures/boxBigHeight.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 10693.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 0
+Structure 10793.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 10768.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 10893.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 10893.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 11343.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 11343.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 11443.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 11543.0 725.0 0.0 0.5 BoxBigHeight /assets/structures/boxBigHeight.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 11643.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 0
+Structure 11618.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 11768.0 750.0 0.0 0.5 BoxBigWidth /assets/structures/boxBigWidth.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 11818.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 11893.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 11893.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 12343.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 12343.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 12468.0 750.0 0.0 0.5 BoxBigWidth /assets/structures/boxBigWidth.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 12518.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 12593.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 12568.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 12693.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 2
+Structure 12793.0 725.0 0.0 0.5 BoxBigHeight /assets/structures/boxBigHeight.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 12893.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 12893.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13543.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13643.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13743.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13843.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13943.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14043.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14143.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14243.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14343.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14443.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13668.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13718.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13768.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13818.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13868.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13918.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13968.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 13743.0 250.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 13843.0 250.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 1
+Structure 14543.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14643.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14743.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14843.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14943.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15043.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15143.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15243.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15343.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15443.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15543.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15643.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15743.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15843.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15943.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16043.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16143.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16243.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16343.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16443.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16543.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16643.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16743.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14968.0 387.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 14968.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14968.0 725.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14968.0 675.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14968.0 625.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14968.0 575.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14968.0 525.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14968.0 475.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14968.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14968.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14968.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14968.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14968.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14968.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 14968.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15268.0 687.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 15268.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15268.0 600.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15268.0 550.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15268.0 500.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15268.0 450.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15268.0 400.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15268.0 350.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15268.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15268.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15268.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15268.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15268.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15268.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15268.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15568.0 437.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 15568.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15568.0 725.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15568.0 675.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15568.0 625.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15568.0 575.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15568.0 525.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15568.0 350.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15568.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15568.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15568.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15568.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15568.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15568.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15568.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15868.0 687.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 15868.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15868.0 600.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15868.0 550.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15868.0 500.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15868.0 450.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15868.0 400.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15868.0 350.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15868.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15868.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15868.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15868.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15868.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15868.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 15868.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16168.0 387.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 16168.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16168.0 725.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16168.0 675.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16168.0 625.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16168.0 575.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16168.0 525.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16168.0 475.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16168.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16168.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16168.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16168.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16168.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16168.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16168.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16843.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 16943.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17043.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17143.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17243.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17343.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17443.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17543.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17643.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17743.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17843.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17943.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18043.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18143.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18243.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18343.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18443.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18543.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18643.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18743.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18843.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18943.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 19043.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 19143.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 19243.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 19343.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 19443.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 19543.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 19643.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 19743.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17268.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17293.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17393.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17493.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17593.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17668.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17693.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17793.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17893.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17993.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18068.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18093.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18193.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18293.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18393.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18468.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18493.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18593.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18693.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18793.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18868.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18893.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 18993.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 19093.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 19193.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17193.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17193.0 350.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17193.0 250.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17193.0 150.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17193.0 50.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 17193.0 -50.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 19843.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 19943.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 20043.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 20143.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 20249.0 904.3168 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 20343.0 871.56573 0.0 1.0 building /assets/buildings/building2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 20419.0 843.7311 0.0 1.0 building /assets/buildings/building2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 20513.0 797.2197 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 20662.0 855.5279 0.0 1.0 building /assets/buildings/building5.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 20828.0 908.52234 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 20974.0 826.2488 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 21140.0 789.34125 0.0 1.0 building /assets/buildings/building5.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 21289.0 845.1971 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 21418.0 752.99023 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 21547.0 872.85144 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 21713.5 794.32623 0.0 1.0 building /assets/buildings/building6.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 21897.0 848.87115 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 22080.5 857.15515 0.0 1.0 building /assets/buildings/building6.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 22264.0 751.88257 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 22447.5 774.2351 0.0 1.0 building /assets/buildings/building6.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 22614.0 830.1214 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 22720.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 22820.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 22920.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 23020.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 23120.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 23220.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 23320.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 23420.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 23520.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 23620.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 23720.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 23820.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 23920.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 24020.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 24120.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 24220.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 24320.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 24420.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 24520.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 24620.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 24720.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 24820.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 24920.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 25020.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 25120.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 25220.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 25320.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 25420.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 25520.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 25620.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 25720.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 25820.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 25920.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 26020.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 26120.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 26220.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 26320.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 26420.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 26520.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 26620.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 26720.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 26820.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 26920.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 27020.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 27120.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 27220.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 27320.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 27420.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 27520.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 27620.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 27720.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 27820.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 27920.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 28020.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 28120.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 28220.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 28320.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 28420.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 28520.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 23420.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 23420.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 23520.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 23620.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 1
+Structure 23595.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 23720.0 725.0 0.0 0.5 BoxBigHeight /assets/structures/boxBigHeight.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 23845.0 750.0 0.0 0.5 BoxBigWidth /assets/structures/boxBigWidth.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 23895.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 23970.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 23970.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 24420.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 24420.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 24520.0 725.0 0.0 0.5 BoxBigHeight /assets/structures/boxBigHeight.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 24645.0 750.0 0.0 0.5 BoxBigWidth /assets/structures/boxBigWidth.png 2 false 3.0 3.0 5.0 0.0 2
+Structure 24695.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 24770.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 24745.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 24870.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 24970.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 24970.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 25420.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 25420.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 25545.0 750.0 0.0 0.5 BoxBigWidth /assets/structures/boxBigWidth.png 2 false 3.0 3.0 5.0 0.0 0
+Structure 25595.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 25670.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 25770.0 725.0 0.0 0.5 BoxBigHeight /assets/structures/boxBigHeight.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 25870.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 25845.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 25970.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 25970.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 26420.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 26420.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 26545.0 750.0 0.0 0.5 BoxBigWidth /assets/structures/boxBigWidth.png 2 false 3.0 3.0 5.0 0.0 1
+Structure 26595.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 26670.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 26770.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 26745.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 26870.0 725.0 0.0 0.5 BoxBigHeight /assets/structures/boxBigHeight.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 26970.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 26970.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 27420.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 27420.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 27545.0 750.0 0.0 0.5 BoxBigWidth /assets/structures/boxBigWidth.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 27595.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 27670.0 725.0 0.0 0.5 BoxBigHeight /assets/structures/boxBigHeight.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 27770.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 27870.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 1
+Structure 27845.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 27970.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 27970.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 28620.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 28720.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 28820.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 28920.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 29020.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 29120.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 29220.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 29320.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 29420.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 29520.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 28745.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 28795.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 28845.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 28895.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 28945.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 28995.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 29045.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 28820.0 250.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 28920.0 250.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 1
+Structure 29620.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 29720.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 29820.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 29920.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30020.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30120.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30220.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30320.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30420.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30520.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30620.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30720.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30820.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30920.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31020.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31120.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31220.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31320.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31420.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31520.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31620.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31720.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31820.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30045.0 387.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 30045.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30045.0 725.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30045.0 675.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30045.0 625.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30045.0 575.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30045.0 525.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30045.0 475.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30045.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30045.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30045.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30045.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30045.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30045.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30045.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30345.0 687.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 30345.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30345.0 600.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30345.0 550.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30345.0 500.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30345.0 450.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30345.0 400.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30345.0 350.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30345.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30345.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30345.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30345.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30345.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30345.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30345.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30645.0 387.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 30645.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30645.0 725.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30645.0 675.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30645.0 625.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30645.0 575.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30645.0 525.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30645.0 475.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30645.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30645.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30645.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30645.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30645.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30645.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30645.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30945.0 687.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 30945.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30945.0 600.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30945.0 550.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30945.0 500.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30945.0 450.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30945.0 400.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30945.0 350.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30945.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30945.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30945.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30945.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30945.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30945.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 30945.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31245.0 437.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 31245.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31245.0 725.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31245.0 675.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31245.0 625.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31245.0 575.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31245.0 525.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31245.0 350.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31245.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31245.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31245.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31245.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31245.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31245.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31245.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 31920.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32020.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32120.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32220.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32320.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32420.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32520.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32620.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32720.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32820.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32920.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33020.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33120.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33220.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33320.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33420.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33520.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33620.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33720.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33820.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33920.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 34020.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 34120.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 34220.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 34320.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 34420.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32345.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32370.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32470.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32570.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32670.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32745.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32770.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32870.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32970.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33070.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33145.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33170.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33270.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33370.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33470.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33545.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33570.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33670.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33770.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 33870.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32270.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32270.0 350.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32270.0 250.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32270.0 150.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32270.0 50.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 32270.0 -50.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 34520.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 34620.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 34720.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 34820.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 34963.0 796.297 0.0 1.0 building /assets/buildings/building5.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 35129.0 777.9226 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 35275.0 935.9474 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 35421.0 771.5259 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 35532.0 830.02576 0.0 1.0 building /assets/buildings/building2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 35663.0 834.5163 0.0 1.0 building /assets/buildings/building5.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 35794.0 778.44183 0.0 1.0 building /assets/buildings/building2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 35942.5 773.6846 0.0 1.0 building /assets/buildings/building6.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 36163.5 812.93506 0.0 1.0 building /assets/buildings/building6.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 36330.0 935.99097 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 36459.0 913.9407 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 36570.0 779.66675 0.0 1.0 building /assets/buildings/building2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 36681.0 939.16846 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 36810.0 925.0093 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 36904.0 829.96155 0.0 1.0 building /assets/buildings/building2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 36998.0 756.9013 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 37127.0 832.5155 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 37256.0 811.4223 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 37368.0 756.30334 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 37480.0 831.1471 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 37592.0 914.1001 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 37758.5 895.13934 0.0 1.0 building /assets/buildings/building6.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 37942.0 920.62067 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 38088.0 765.4326 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 38217.0 826.4507 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 38346.0 818.95123 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 38469.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 38569.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 38669.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 38769.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 38869.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 38969.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 39069.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 39169.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 39269.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 39369.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 39469.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 39569.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 39669.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 39769.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 39869.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 39969.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 40069.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 40169.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 40269.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 40369.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 40469.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 40569.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 40669.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 40769.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 40869.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 40969.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 41069.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 41169.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 41269.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 41369.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 41469.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 41569.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 41669.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 41769.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 41869.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 41969.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42069.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42169.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42269.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 39169.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 39169.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 39269.0 725.0 0.0 0.5 BoxBigHeight /assets/structures/boxBigHeight.png 2 false 3.0 3.0 5.0 0.0 2
+Structure 39369.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 39344.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 39469.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 39594.0 750.0 0.0 0.5 BoxBigWidth /assets/structures/boxBigWidth.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 39644.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 39719.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 39719.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 40169.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 40169.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 40269.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 40244.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 40394.0 750.0 0.0 0.5 BoxBigWidth /assets/structures/boxBigWidth.png 2 false 3.0 3.0 5.0 0.0 2
+Structure 40444.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 40519.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 40619.0 725.0 0.0 0.5 BoxBigHeight /assets/structures/boxBigHeight.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 40719.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 40719.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 41169.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 41169.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 41294.0 750.0 0.0 0.5 BoxBigWidth /assets/structures/boxBigWidth.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 41344.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 41419.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 41519.0 750.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 41494.0 675.0 0.0 0.25 Small /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 41619.0 725.0 0.0 0.5 BoxBigHeight /assets/structures/boxBigHeight.png 2 false 3.0 3.0 5.0 0.0 0
+Structure 41719.0 750.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 41719.0 650.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42369.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42469.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42569.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42669.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42769.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42869.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42969.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43069.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43169.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43269.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42494.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42544.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42594.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42644.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42694.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42744.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42794.0 325.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 42569.0 250.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 -1
+Structure 42669.0 250.0 0.0 0.5 Box /assets/structures/box.png 2 false 3.0 3.0 5.0 0.0 1
+Structure 43369.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43469.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43569.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43669.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43769.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43869.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43969.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44069.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44169.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44269.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44369.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44469.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44569.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44669.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44769.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44869.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44969.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45069.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45169.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45269.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43794.0 437.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 43794.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43794.0 725.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43794.0 675.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43794.0 625.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43794.0 575.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43794.0 525.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43794.0 350.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43794.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43794.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43794.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43794.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43794.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43794.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 43794.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44094.0 637.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 44094.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44094.0 725.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44094.0 550.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44094.0 500.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44094.0 450.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44094.0 400.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44094.0 350.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44094.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44094.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44094.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44094.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44094.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44094.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44094.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44394.0 387.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 44394.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44394.0 725.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44394.0 675.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44394.0 625.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44394.0 575.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44394.0 525.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44394.0 475.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44394.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44394.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44394.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44394.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44394.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44394.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44394.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44694.0 637.5 0.0 1.0 BoxWidth /assets/structures/gate.png 2 false 5.0 5.0 5.0 0.0 -1
+Structure 44694.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44694.0 725.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44694.0 550.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44694.0 500.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44694.0 450.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44694.0 400.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44694.0 350.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44694.0 300.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44694.0 250.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44694.0 200.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44694.0 150.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44694.0 100.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44694.0 50.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 44694.0 0.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45369.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45469.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45569.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45669.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45769.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45869.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45969.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46069.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46169.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46269.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46369.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46469.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46569.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46669.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46769.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46869.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46969.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47069.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47169.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47269.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47369.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47469.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47569.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47669.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47769.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47869.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47969.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 48069.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 48169.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 48269.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45794.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45819.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45919.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46019.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46119.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46194.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46219.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46319.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46419.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46519.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46594.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46619.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46719.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46819.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46919.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 46994.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47019.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47119.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47219.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47319.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47394.0 775.0 0.0 0.25 Box2Small /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47419.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47519.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47619.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 47719.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45719.0 450.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45719.0 350.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45719.0 250.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45719.0 150.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45719.0 50.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 45719.0 -50.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 48369.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 48469.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 48569.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 48669.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 48829.5 946.26843 0.0 1.0 building /assets/buildings/building6.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 49013.0 943.05743 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 49142.0 938.61475 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 49308.5 937.88275 0.0 1.0 building /assets/buildings/building6.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 49475.0 892.81805 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 49569.0 923.0621 0.0 1.0 building /assets/buildings/building2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 49663.0 764.95654 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 49812.0 869.42706 0.0 1.0 building /assets/buildings/building5.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 49943.0 847.37103 0.0 1.0 building /assets/buildings/building2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 50091.5 839.433 0.0 1.0 building /assets/buildings/building6.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 50295.0 845.90936 0.0 1.0 building /assets/buildings/building5.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 50461.0 943.80914 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 50627.0 779.02124 0.0 1.0 building /assets/buildings/building5.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 50793.0 920.8704 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 50939.0 870.88025 0.0 1.0 building /assets/buildings/building4.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 51068.0 847.8237 0.0 1.0 building /assets/buildings/building3.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 51162.0 766.55383 0.0 1.0 building /assets/buildings/building2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 51250.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 51350.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 51450.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 51550.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 51650.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 51750.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+Structure 51850.0 850.0 0.0 0.5 Box2 /assets/structures/box2.png 2 true 5.0 5.0 5.0 0.0 -1
+PlayerPlaneEntity 400.0 200.0 90.0 1.0 PlayerPlaneP1 /assets/plane1RightP1.png 0 false 5.0 5.0 5.0 5.0 0.05 1 1 200 208 203 205 157 54 12
+PlayerPlaneEntity 400.0 400.0 90.0 1.0 PlayerPlaneP2 /assets/plane1RightP2.png 0 false 5.0 5.0 5.0 5.0 0.05 1 1 17 31 30 32 33 34 49
+PlayerPlaneEntity 400.0 300.0 90.0 1.0 PlayerPlaneP3 /assets/plane1RightP3.png 0 false 5.0 5.0 5.0 5.0 0.05 1 1 22 36 35 37 23 24 25
+GameEntity 1400.0 600.0 -90.0 1.0 plane1 /assets/planes/plane1.png 1 false 1.0 1.0 0.5 0.5 0.1 1 true [ 400.0 600.0 0.0 600.0 ] true true -1
+GameEntity 1420.0 683.0 -90.0 1.0 plane1 /assets/planes/plane1.png 1 false 1.0 1.0 0.5 0.5 0.1 1 true [ 420.0 683.0 0.0 683.0 ] true true -1
+GameEntity 1420.0 517.0 -90.0 1.0 plane1 /assets/planes/plane1.png 1 false 1.0 1.0 0.5 0.5 0.1 1 true [ 420.0 517.0 0.0 517.0 ] true true -1
+GameEntity 1900.0 600.0 -90.0 1.0 plane3 /assets/planes/plane3.png 1 false 1.0 1.0 0.5 0.5 0.1 3 true [ 900.0 600.0 0.0 600.0 ] true true -1
+GameEntity 1920.0 673.0 -90.0 1.0 plane3 /assets/planes/plane3.png 1 false 1.0 1.0 0.5 0.5 0.1 3 true [ 920.0 673.0 0.0 673.0 ] true true -1
+GameEntity 1920.0 527.0 -90.0 1.0 plane3 /assets/planes/plane3.png 1 false 1.0 1.0 0.5 0.5 0.1 3 true [ 920.0 527.0 0.0 527.0 ] true true 2
+GameEntity 1600.0 760.0 0.0 1.0 RocketTowerWeak /assets/towerWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 2350.0 760.0 0.0 1.0 RocketTowerWeak /assets/towerWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 3700.0 760.0 0.0 1.0 RocketTowerWeak /assets/towerWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 4480.0 760.0 0.0 1.0 RocketTowerWeak /assets/towerWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 4880.0 760.0 0.0 1.0 TowerWeak /assets/rocketTowerWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 14 true [ ] false false -1
+GameEntity 5280.0 760.0 0.0 1.0 RocketTeslaStationWeak /assets/rocketTeslaStationWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 15 true [ ] false false -1
+GameEntity 5200.0 550.0 -90.0 1.0 plane6 /assets/planes/plane6.png 1 false 1.0 1.0 0.5 0.5 0.1 6 true [ 1200.0 550.0 0.0 550.0 ] true true -1
+GameEntity 5225.0 650.0 -90.0 1.0 plane2 /assets/planes/plane2.png 1 false 1.0 1.0 0.5 0.5 0.1 2 true [ 1225.0 650.0 0.0 650.0 ] true true -1
+GameEntity 5600.0 550.0 -90.0 1.0 plane3 /assets/planes/plane3.png 1 false 1.0 1.0 0.5 0.5 0.1 3 true [ 1600.0 550.0 0.0 550.0 ] true true -1
+GameEntity 5625.0 650.0 -90.0 1.0 plane5 /assets/planes/plane5.png 1 false 1.0 1.0 0.5 0.5 0.1 5 true [ 1625.0 650.0 0.0 650.0 ] true true -1
+GameEntity 6000.0 550.0 -90.0 1.0 plane4 /assets/planes/plane4.png 1 false 1.0 1.0 0.5 0.5 0.1 4 true [ 2000.0 550.0 0.0 550.0 ] true true 2
+GameEntity 6025.0 650.0 -90.0 1.0 plane1 /assets/planes/plane1.png 1 false 1.0 1.0 0.5 0.5 0.1 1 true [ 2025.0 650.0 0.0 650.0 ] true true 1
+GameEntity 6500.0 760.0 0.0 1.0 RocketTowerWeak /assets/towerWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 7030.0 375.42804 -90.0 1.0 plane2 /assets/planes/plane2.png 1 false 1.0 1.0 0.5 0.5 0.1 2 true [ 830.0 375.42804 0.0 375.42804 ] true true -1
+GameEntity 7050.0 458.42804 -90.0 1.0 plane2 /assets/planes/plane2.png 1 false 1.0 1.0 0.5 0.5 0.1 2 true [ 850.0 458.42804 0.0 458.42804 ] true true -1
+GameEntity 7050.0 292.42804 -90.0 1.0 plane2 /assets/planes/plane2.png 1 false 1.0 1.0 0.5 0.5 0.1 2 true [ 850.0 292.42804 0.0 292.42804 ] true true 2
+GameEntity 7123.0 584.89545 0.0 1.0 RocketTowerWeak /assets/towerWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 7534.0 313.8183 -90.0 1.0 plane5 /assets/planes/plane5.png 1 false 1.0 1.0 0.5 0.5 0.1 5 true [ 1334.0 313.8183 0.0 313.8183 ] true true -1
+GameEntity 7534.0 187.8183 -90.0 1.0 plane5 /assets/planes/plane5.png 1 false 1.0 1.0 0.5 0.5 0.1 5 true [ 1334.0 187.8183 0.0 187.8183 ] true true -1
+GameEntity 7554.0 376.8183 -90.0 1.0 plane5 /assets/planes/plane5.png 1 false 1.0 1.0 0.5 0.5 0.1 5 true [ 1354.0 376.8183 0.0 376.8183 ] true true -1
+GameEntity 7554.0 124.8183 -90.0 1.0 plane5 /assets/planes/plane5.png 1 false 1.0 1.0 0.5 0.5 0.1 5 true [ 1354.0 124.8183 0.0 124.8183 ] true true -1
+GameEntity 7846.5 726.14734 0.0 1.0 TowerWeak /assets/rocketTowerWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 14 true [ ] false false -1
+GameEntity 8574.0 703.3618 0.0 1.0 TowerWeak /assets/rocketTowerWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 14 true [ ] false false -1
+GameEntity 8908.0 305.60498 -90.0 1.0 plane6 /assets/planes/plane6.png 1 false 1.0 1.0 0.5 0.5 0.1 6 true [ 2708.0 305.60498 0.0 305.60498 ] true true -1
+GameEntity 8908.0 167.60498 -90.0 1.0 plane6 /assets/planes/plane6.png 1 false 1.0 1.0 0.5 0.5 0.1 6 true [ 2708.0 167.60498 0.0 167.60498 ] true true -1
+GameEntity 8928.0 374.60498 -90.0 1.0 plane6 /assets/planes/plane6.png 1 false 1.0 1.0 0.5 0.5 0.1 6 true [ 2728.0 374.60498 0.0 374.60498 ] true true -1
+GameEntity 8928.0 98.60498 -90.0 1.0 plane6 /assets/planes/plane6.png 1 false 1.0 1.0 0.5 0.5 0.1 6 true [ 2728.0 98.60498 0.0 98.60498 ] true true -1
+GameEntity 9202.0 566.9368 0.0 1.0 RocketTowerWeak /assets/towerWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 9295.0 367.1665 -90.0 1.0 plane1 /assets/planes/plane1.png 1 false 1.0 1.0 0.5 0.5 0.1 1 true [ 3095.0 367.1665 0.0 367.1665 ] true true 2
+GameEntity 9315.0 450.1665 -90.0 1.0 plane1 /assets/planes/plane1.png 1 false 1.0 1.0 0.5 0.5 0.1 1 true [ 3115.0 450.1665 0.0 450.1665 ] true true -1
+GameEntity 9315.0 284.1665 -90.0 1.0 plane1 /assets/planes/plane1.png 1 false 1.0 1.0 0.5 0.5 0.1 1 true [ 3115.0 284.1665 0.0 284.1665 ] true true -1
+GameEntity 9643.0 760.0 0.0 1.0 TowerWeak /assets/rocketTowerWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 14 true [ ] false false -1
+GameEntity 10343.0 560.0 0.0 1.0 TowerWeak /assets/rocketTowerWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 14 true [ ] false false -1
+GameEntity 10893.0 560.0 0.0 1.0 TowerWeak /assets/rocketTowerWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 14 true [ ] false false -1
+GameEntity 11343.0 560.0 0.0 1.0 RocketTowerWeak /assets/towerWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 11893.0 560.0 0.0 1.0 TowerWeak /assets/rocketTowerWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 14 true [ ] false false -1
+GameEntity 12343.0 560.0 0.0 1.0 RocketTeslaStationWeak /assets/rocketTeslaStationWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 15 true [ ] false false -1
+GameEntity 12363.0 402.5 -90.0 1.0 plane4 /assets/planes/plane4.png 1 false 1.0 1.0 0.5 0.5 0.1 4 true [ 2420.0 402.5 0.0 402.5 ] true true -1
+GameEntity 12363.0 252.5 -90.0 1.0 plane4 /assets/planes/plane4.png 1 false 1.0 1.0 0.5 0.5 0.1 4 true [ 2420.0 252.5 0.0 252.5 ] true true -1
+GameEntity 12383.0 477.5 -90.0 1.0 plane4 /assets/planes/plane4.png 1 false 1.0 1.0 0.5 0.5 0.1 4 true [ 2440.0 477.5 0.0 477.5 ] true true -1
+GameEntity 12383.0 177.5 -90.0 1.0 plane4 /assets/planes/plane4.png 1 false 1.0 1.0 0.5 0.5 0.1 4 true [ 2440.0 177.5 0.0 177.5 ] true true -1
+GameEntity 12893.0 560.0 0.0 1.0 RocketTowerWeak /assets/towerWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 14143.0 760.0 0.0 1.0 TowerWeak /assets/rocketTowerWeak.png 1 false 5.0 5.0 5.0 0.0 0.4 14 true [ ] false false -1
+GameEntity 14893.0 760.0 0.0 1.0 RocketTowerStrong /assets/rocketTowerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 14 true [ ] false false -1
+GameEntity 16543.0 760.0 0.0 1.0 RocketTowerStrong /assets/rocketTowerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 14 true [ ] false false -1
+GameEntity 17323.0 760.0 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 17723.0 760.0 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 18123.0 760.0 0.0 1.0 RocketTeslaStationStrong /assets/rocketTeslaStationStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 15 true [ ] false false -1
+GameEntity 18523.0 760.0 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 18923.0 760.0 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 18043.0 550.0 -90.0 1.0 plane3 /assets/planes/plane3.png 1 false 1.0 1.0 0.5 0.5 0.1 3 true [ 1200.0 550.0 0.0 550.0 ] true true -1
+GameEntity 18068.0 650.0 -90.0 1.0 plane2 /assets/planes/plane2.png 1 false 1.0 1.0 0.5 0.5 0.1 2 true [ 1225.0 650.0 0.0 650.0 ] true true 1
+GameEntity 18443.0 550.0 -90.0 1.0 plane5 /assets/planes/plane5.png 1 false 1.0 1.0 0.5 0.5 0.1 5 true [ 1600.0 550.0 0.0 550.0 ] true true -1
+GameEntity 18468.0 650.0 -90.0 1.0 plane6 /assets/planes/plane6.png 1 false 1.0 1.0 0.5 0.5 0.1 6 true [ 1625.0 650.0 0.0 650.0 ] true true -1
+GameEntity 18843.0 550.0 -90.0 1.0 plane5 /assets/planes/plane5.png 1 false 1.0 1.0 0.5 0.5 0.1 5 true [ 2000.0 550.0 0.0 550.0 ] true true -1
+GameEntity 18868.0 650.0 -90.0 1.0 plane1 /assets/planes/plane1.png 1 false 1.0 1.0 0.5 0.5 0.1 1 true [ 2025.0 650.0 0.0 650.0 ] true true 0
+GameEntity 19243.0 550.0 -90.0 1.0 plane1 /assets/planes/plane1.png 1 false 1.0 1.0 0.5 0.5 0.1 1 true [ 2400.0 550.0 0.0 550.0 ] true true -1
+GameEntity 19268.0 650.0 -90.0 1.0 plane3 /assets/planes/plane3.png 1 false 1.0 1.0 0.5 0.5 0.1 3 true [ 2425.0 650.0 0.0 650.0 ] true true 2
+GameEntity 19643.0 550.0 -90.0 1.0 plane4 /assets/planes/plane4.png 1 false 1.0 1.0 0.5 0.5 0.1 4 true [ 2800.0 550.0 0.0 550.0 ] true true -1
+GameEntity 19668.0 650.0 -90.0 1.0 plane3 /assets/planes/plane3.png 1 false 1.0 1.0 0.5 0.5 0.1 3 true [ 2825.0 650.0 0.0 650.0 ] true true -1
+GameEntity 20143.0 760.0 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 20828.0 718.52234 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 21547.0 682.85144 0.0 1.0 RocketTeslaStationStrong /assets/rocketTeslaStationStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 15 true [ ] false false -1
+GameEntity 21824.0 444.77835 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 1981.0 444.77835 0.0 444.77835 ] true true 2
+GameEntity 21844.0 509.77835 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 2001.0 509.77835 0.0 509.77835 ] true true -1
+GameEntity 21844.0 379.77835 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 2001.0 379.77835 0.0 379.77835 ] true true -1
+GameEntity 22264.0 561.88257 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 22337.0 427.78604 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 2494.0 427.78604 0.0 427.78604 ] true true -1
+GameEntity 22357.0 493.78604 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 2514.0 493.78604 0.0 493.78604 ] true true 2
+GameEntity 22357.0 361.78604 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 2514.0 361.78604 0.0 361.78604 ] true true -1
+GameEntity 22720.0 760.0 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 23420.0 560.0 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 23970.0 560.0 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 24420.0 560.0 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 24420.0 350.0 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 1400.0 350.0 0.0 350.0 ] true true -1
+GameEntity 24440.0 417.0 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 1420.0 417.0 0.0 417.0 ] true true -1
+GameEntity 24440.0 283.0 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 1420.0 283.0 0.0 283.0 ] true true -1
+GameEntity 24970.0 560.0 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 25420.0 560.0 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 25970.0 560.0 0.0 1.0 RocketTeslaStationStrong /assets/rocketTeslaStationStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 15 true [ ] false false -1
+GameEntity 26420.0 560.0 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 26970.0 560.0 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 27420.0 560.0 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 27970.0 560.0 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 29020.0 600.0 -90.0 1.0 plane7 /assets/planes/plane7.png 1 false 1.0 1.0 0.5 0.5 0.1 7 true [ 400.0 600.0 0.0 600.0 ] true true -1
+GameEntity 29040.0 678.0 -90.0 1.0 plane7 /assets/planes/plane7.png 1 false 1.0 1.0 0.5 0.5 0.1 7 true [ 420.0 678.0 0.0 678.0 ] true true -1
+GameEntity 29040.0 522.0 -90.0 1.0 plane7 /assets/planes/plane7.png 1 false 1.0 1.0 0.5 0.5 0.1 7 true [ 420.0 522.0 0.0 522.0 ] true true -1
+GameEntity 29520.0 600.0 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 900.0 600.0 0.0 600.0 ] true true -1
+GameEntity 29540.0 665.0 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 920.0 665.0 0.0 665.0 ] true true -1
+GameEntity 29540.0 535.0 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 920.0 535.0 0.0 535.0 ] true true 2
+GameEntity 29220.0 760.0 0.0 1.0 RocketTeslaStationStrong /assets/rocketTeslaStationStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 15 true [ ] false false -1
+GameEntity 29970.0 760.0 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 31620.0 760.0 0.0 1.0 TowerStrong /assets/towerStrong.png 1 false 10.0 10.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 32400.0 760.0 0.0 1.0 TowerStrongest /assets/towerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 32800.0 760.0 0.0 1.0 RocketTowerStrongest /assets/rocketTowerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 14 true [ ] false false -1
+GameEntity 33200.0 760.0 0.0 1.0 TowerStrongest /assets/towerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 33600.0 760.0 0.0 1.0 TowerStrongest /assets/towerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 33120.0 550.0 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 1200.0 550.0 0.0 550.0 ] true true -1
+GameEntity 33145.0 650.0 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 1225.0 650.0 0.0 650.0 ] true true -1
+GameEntity 33520.0 550.0 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 1600.0 550.0 0.0 550.0 ] true true -1
+GameEntity 33545.0 650.0 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 1625.0 650.0 0.0 650.0 ] true true -1
+GameEntity 33920.0 550.0 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 2000.0 550.0 0.0 550.0 ] true true -1
+GameEntity 33945.0 650.0 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 2025.0 650.0 0.0 650.0 ] true true -1
+GameEntity 34320.0 550.0 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 2400.0 550.0 0.0 550.0 ] true true -1
+GameEntity 34345.0 650.0 -90.0 1.0 plane12 /assets/planes/plane12.png 1 false 7.0 7.0 0.5 0.5 0.2 12 true [ 2425.0 650.0 0.0 650.0 ] true true -1
+GameEntity 34820.0 760.0 0.0 1.0 RocketTeslaStationStrongest /assets/rocketTeslaStationStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 15 true [ ] false false -1
+GameEntity 35421.0 581.5259 0.0 1.0 RocketTowerStrongest /assets/rocketTowerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 14 true [ ] false false -1
+GameEntity 35756.0 394.4322 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 1236.0 394.4322 0.0 394.4322 ] true true 1
+GameEntity 35776.0 463.4322 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 1256.0 463.4322 0.0 463.4322 ] true true -1
+GameEntity 35776.0 325.4322 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 1256.0 325.4322 0.0 325.4322 ] true true -1
+GameEntity 36163.5 622.93506 0.0 1.0 RocketTeslaStationStrongest /assets/rocketTeslaStationStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 15 true [ ] false false -1
+GameEntity 36274.0 274.9624 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 1754.0 274.9624 0.0 274.9624 ] true true -1
+GameEntity 36294.0 343.9624 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 1774.0 343.9624 0.0 343.9624 ] true true -1
+GameEntity 36294.0 205.9624 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 1774.0 205.9624 0.0 205.9624 ] true true -1
+GameEntity 36904.0 639.96155 0.0 1.0 RocketTeslaStationStrongest /assets/rocketTeslaStationStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 15 true [ ] false false -1
+GameEntity 37592.0 724.1001 0.0 1.0 TowerStrongest /assets/towerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 38161.0 281.26038 -90.0 1.0 plane12 /assets/planes/plane12.png 1 false 7.0 7.0 0.5 0.5 0.2 12 true [ 3641.0 281.26038 0.0 281.26038 ] true true -1
+GameEntity 38181.0 342.26038 -90.0 1.0 plane12 /assets/planes/plane12.png 1 false 7.0 7.0 0.5 0.5 0.2 12 true [ 3661.0 342.26038 0.0 342.26038 ] true true -1
+GameEntity 38181.0 220.26038 -90.0 1.0 plane12 /assets/planes/plane12.png 1 false 7.0 7.0 0.5 0.5 0.2 12 true [ 3661.0 220.26038 0.0 220.26038 ] true true -1
+GameEntity 38217.0 636.4507 0.0 1.0 RocketTeslaStationStrongest /assets/rocketTeslaStationStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 15 true [ ] false false -1
+GameEntity 38469.0 760.0 0.0 1.0 TowerStrongest /assets/towerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 39169.0 560.0 0.0 1.0 TowerStrongest /assets/towerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 39169.0 350.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 400.0 350.0 0.0 350.0 ] true true -1
+GameEntity 39189.0 416.00003 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 420.0 416.00003 0.0 416.00003 ] true true -1
+GameEntity 39189.0 283.99997 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 420.0 283.99997 0.0 283.99997 ] true true -1
+GameEntity 39719.0 560.0 0.0 1.0 RocketTeslaStationStrongest /assets/rocketTeslaStationStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 15 true [ ] false false -1
+GameEntity 40169.0 560.0 0.0 1.0 TowerStrongest /assets/towerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 40189.0 395.5 -90.0 1.0 plane12 /assets/planes/plane12.png 1 false 7.0 7.0 0.5 0.5 0.2 12 true [ 1420.0 395.5 0.0 395.5 ] true true -1
+GameEntity 40189.0 273.5 -90.0 1.0 plane12 /assets/planes/plane12.png 1 false 7.0 7.0 0.5 0.5 0.2 12 true [ 1420.0 273.5 0.0 273.5 ] true true 1
+GameEntity 40209.0 456.5 -90.0 1.0 plane12 /assets/planes/plane12.png 1 false 7.0 7.0 0.5 0.5 0.2 12 true [ 1440.0 456.5 0.0 456.5 ] true true 2
+GameEntity 40209.0 212.5 -90.0 1.0 plane12 /assets/planes/plane12.png 1 false 7.0 7.0 0.5 0.5 0.2 12 true [ 1440.0 212.5 0.0 212.5 ] true true -1
+GameEntity 40719.0 560.0 0.0 1.0 TowerStrongest /assets/towerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 41169.0 560.0 0.0 1.0 RocketTowerStrongest /assets/rocketTowerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 14 true [ ] false false -1
+GameEntity 41169.0 350.0 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 2400.0 350.0 0.0 350.0 ] true true -1
+GameEntity 41189.0 415.0 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 2420.0 415.0 0.0 415.0 ] true true -1
+GameEntity 41189.0 285.0 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 2420.0 285.0 0.0 285.0 ] true true -1
+GameEntity 41719.0 560.0 0.0 1.0 RocketTowerStrongest /assets/rocketTowerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 14 true [ ] false false -1
+GameEntity 43289.0 647.5 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 920.0 647.5 0.0 647.5 ] true true -1
+GameEntity 43289.0 517.5 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 920.0 517.5 0.0 517.5 ] true true -1
+GameEntity 43309.0 712.5 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 940.0 712.5 0.0 712.5 ] true true 0
+GameEntity 43309.0 452.5 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 940.0 452.5 0.0 452.5 ] true true -1
+GameEntity 42969.0 760.0 0.0 1.0 TowerStrongest /assets/towerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 43719.0 760.0 0.0 1.0 TowerStrongest /assets/towerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 45069.0 760.0 0.0 1.0 RocketTowerStrongest /assets/rocketTowerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 14 true [ ] false false -1
+GameEntity 45849.0 760.0 0.0 1.0 TowerStrongest /assets/towerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 46249.0 760.0 0.0 1.0 TowerStrongest /assets/towerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 46649.0 760.0 0.0 1.0 RocketTeslaStationStrongest /assets/rocketTeslaStationStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 15 true [ ] false false -1
+GameEntity 47049.0 760.0 0.0 1.0 RocketTowerStrongest /assets/rocketTowerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 14 true [ ] false false -1
+GameEntity 47449.0 760.0 0.0 1.0 TowerStrongest /assets/towerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 46569.0 550.0 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 1200.0 550.0 0.0 550.0 ] true true -1
+GameEntity 46594.0 650.0 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 1225.0 650.0 0.0 650.0 ] true true -1
+GameEntity 46969.0 550.0 -90.0 1.0 plane12 /assets/planes/plane12.png 1 false 7.0 7.0 0.5 0.5 0.2 12 true [ 1600.0 550.0 0.0 550.0 ] true true -1
+GameEntity 46994.0 650.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 1625.0 650.0 0.0 650.0 ] true true 2
+GameEntity 47369.0 550.0 -90.0 1.0 plane12 /assets/planes/plane12.png 1 false 7.0 7.0 0.5 0.5 0.2 12 true [ 2000.0 550.0 0.0 550.0 ] true true -1
+GameEntity 47394.0 650.0 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 2025.0 650.0 0.0 650.0 ] true true -1
+GameEntity 47769.0 550.0 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 2400.0 550.0 0.0 550.0 ] true true -1
+GameEntity 47794.0 650.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 2425.0 650.0 0.0 650.0 ] true true -1
+GameEntity 48169.0 550.0 -90.0 1.0 plane7 /assets/planes/plane7.png 1 false 1.0 1.0 0.5 0.5 0.1 7 true [ 2800.0 550.0 0.0 550.0 ] true true -1
+GameEntity 48194.0 650.0 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 2825.0 650.0 0.0 650.0 ] true true -1
+GameEntity 48669.0 760.0 0.0 1.0 TowerStrongest /assets/towerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 49198.0 314.9131 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 829.0 314.9131 0.0 314.9131 ] true true -1
+GameEntity 49218.0 379.9131 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 849.0 379.9131 0.0 379.9131 ] true true 2
+GameEntity 49218.0 249.91309 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 849.0 249.91309 0.0 249.91309 ] true true -1
+GameEntity 49308.5 747.88275 0.0 1.0 RocketTeslaStationStrongest /assets/rocketTeslaStationStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 15 true [ ] false false -1
+GameEntity 49607.0 375.5711 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 1238.0 375.5711 0.0 375.5711 ] true true -1
+GameEntity 49627.0 444.5711 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 1258.0 444.5711 0.0 444.5711 ] true true -1
+GameEntity 49627.0 306.5711 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 1258.0 306.5711 0.0 306.5711 ] true true -1
+GameEntity 50091.5 649.433 0.0 1.0 TowerStrongest /assets/towerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 50202.0 361.2837 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 1833.0 361.2837 0.0 361.2837 ] true true -1
+GameEntity 50222.0 426.2837 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 1853.0 426.2837 0.0 426.2837 ] true true -1
+GameEntity 50222.0 296.2837 -90.0 1.0 plane11 /assets/planes/plane11.png 1 false 3.0 3.0 1.0 1.0 0.1 11 true [ 1853.0 296.2837 0.0 296.2837 ] true true -1
+GameEntity 50793.0 730.8704 0.0 1.0 TowerStrongest /assets/towerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 51250.0 760.0 0.0 1.0 TowerStrongest /assets/towerStrongest.png 1 false 15.0 15.0 5.0 0.0 0.4 13 true [ ] false false -1
+GameEntity 52950.0 475.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 1400.0 475.0 0.0 475.0 ] true true -1
+GameEntity 52970.0 546.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 1420.0 546.0 0.0 546.0 ] true true -1
+GameEntity 52970.0 404.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 1420.0 404.0 0.0 404.0 ] true true 0
+GameEntity 52990.0 617.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 1440.0 617.0 0.0 617.0 ] true true -1
+GameEntity 52990.0 333.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 1440.0 333.0 0.0 333.0 ] true true -1
+GameEntity 53010.0 688.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 1460.0 688.0 0.0 688.0 ] true true -1
+GameEntity 53010.0 262.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 1460.0 262.0 0.0 262.0 ] true true -1
+GameEntity 53030.0 759.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 1480.0 759.0 0.0 759.0 ] true true -1
+GameEntity 53030.0 191.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 1480.0 191.0 0.0 191.0 ] true true -1
+GameEntity 53050.0 830.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 1500.0 830.0 0.0 830.0 ] true true 3
+GameEntity 53050.0 120.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 1500.0 120.0 0.0 120.0 ] true true -1
+GameEntity 54450.0 475.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 2900.0 475.0 0.0 475.0 ] true true -1
+GameEntity 54470.0 546.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 2920.0 546.0 0.0 546.0 ] true true -1
+GameEntity 54470.0 404.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 2920.0 404.0 0.0 404.0 ] true true -1
+GameEntity 54490.0 617.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 2940.0 617.0 0.0 617.0 ] true true 0
+GameEntity 54490.0 333.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 2940.0 333.0 0.0 333.0 ] true true -1
+GameEntity 54510.0 688.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 2960.0 688.0 0.0 688.0 ] true true -1
+GameEntity 54510.0 262.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 2960.0 262.0 0.0 262.0 ] true true -1
+GameEntity 54530.0 759.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 2980.0 759.0 0.0 759.0 ] true true -1
+GameEntity 54530.0 191.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 2980.0 191.0 0.0 191.0 ] true true 0
+GameEntity 54550.0 830.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 3000.0 830.0 0.0 830.0 ] true true 1
+GameEntity 54550.0 120.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 3000.0 120.0 0.0 120.0 ] true true -1
+GameEntity 55950.0 475.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 4400.0 475.0 0.0 475.0 ] true true -1
+GameEntity 55970.0 546.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 4420.0 546.0 0.0 546.0 ] true true 1
+GameEntity 55970.0 404.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 4420.0 404.0 0.0 404.0 ] true true -1
+GameEntity 55990.0 617.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 4440.0 617.0 0.0 617.0 ] true true -1
+GameEntity 55990.0 333.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 4440.0 333.0 0.0 333.0 ] true true 0
+GameEntity 56010.0 688.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 4460.0 688.0 0.0 688.0 ] true true -1
+GameEntity 56010.0 262.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 4460.0 262.0 0.0 262.0 ] true true -1
+GameEntity 56030.0 759.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 4480.0 759.0 0.0 759.0 ] true true 1
+GameEntity 56030.0 191.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 4480.0 191.0 0.0 191.0 ] true true -1
+GameEntity 56050.0 830.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 4500.0 830.0 0.0 830.0 ] true true -1
+GameEntity 56050.0 120.0 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.0025 10 true [ 4500.0 120.0 0.0 120.0 ] true true -1
+Item 2550.0 750.0 2
+Item 2850.0 250.0 1
+Item 3150.0 750.0 1
+Item 3450.0 250.0 1
+Item 4950.0 650.0 1
+Item 5350.0 650.0 1
+Item 7328.0 380.3847 0
+Item 8033.0 373.0194 2
+Item 8888.0 285.17493 0
+Item 9593.0 320.17517 1
+Item 15093.0 250.0 1
+Item 15393.0 750.0 0
+Item 15693.0 750.0 1
+Item 15993.0 250.0 1
+Item 16293.0 750.0 1
+Item 17793.0 650.0 0
+Item 18193.0 650.0 1
+Item 18593.0 650.0 1
+Item 18993.0 650.0 1
+Item 20901.0 471.84927 2
+Item 21603.0 446.43027 1
+Item 22337.0 367.46173 0
+Item 30170.0 750.0 3
+Item 30470.0 250.0 2
+Item 30770.0 750.0 0
+Item 31070.0 750.0 2
+Item 31370.0 750.0 0
+Item 32870.0 650.0 0
+Item 33270.0 650.0 0
+Item 33670.0 650.0 2
+Item 35570.0 251.75671 2
+Item 36274.0 426.46463 0
+Item 37054.0 487.61414 1
+Item 37869.0 465.1433 1
+Item 43919.0 250.0 2
+Item 44219.0 750.0 2
+Item 44519.0 250.0 2
+Item 44819.0 250.0 1
+Item 46319.0 650.0 1
+Item 46719.0 650.0 1
+Item 47119.0 650.0 1
+Item 47519.0 650.0 1
+Item 49419.0 371.69055 2
+Item 50202.0 306.70105 3
+Item 51012.0 388.75266 2
+Item 51850.0 500.0 0
+Item 51850.0 600.0 1
+Item 51850.0 700.0 2
+Item 51950.0 500.0 0
+Item 51950.0 600.0 1
+Item 51950.0 700.0 2
+Item 52050.0 500.0 0
+Item 52050.0 600.0 1
+Item 52050.0 700.0 2
+Item 53550.0 500.0 0
+Item 53550.0 600.0 1
+Item 53550.0 700.0 2
+Item 55050.0 500.0 0
+Item 55050.0 600.0 1
+Item 55050.0 700.0 2
+Item 51850.0 200.0 0
+Item 51850.0 300.0 1
+Item 51850.0 400.0 2
+Item 51950.0 200.0 0
+Item 51950.0 300.0 1
+Item 51950.0 400.0 2
+Item 52050.0 200.0 0
+Item 52050.0 300.0 1
+Item 52050.0 400.0 2
+Item 53550.0 200.0 0
+Item 53550.0 300.0 1
+Item 53550.0 400.0 2
+Item 55050.0 200.0 0
+Item 55050.0 300.0 1
+Item 55050.0 400.0 2
+SpawnPlanesAction 7957.0 274.02142 0.0015 [ GameEntity 7957.0 274.02142 -90.0 1.0 plane5 /assets/planes/plane5.png 1 false 1.0 1.0 0.5 0.5 0.1 5 true [ 7957.0 274.02142 7909.6777 400.02142 7957.0 526.0214 8004.3223 400.02142 7957.0 274.02142 ] true true -1 GameEntity 7957.0 274.02142 -90.0 1.0 plane5 /assets/planes/plane5.png 1 false 1.0 1.0 0.5 0.5 0.1 5 true [ 7957.0 274.02142 7909.6777 400.02142 7957.0 526.0214 8004.3223 400.02142 7957.0 274.02142 ] true true -1 GameEntity 7957.0 274.02142 -90.0 1.0 plane5 /assets/planes/plane5.png 1 false 1.0 1.0 0.5 0.5 0.1 5 true [ 7957.0 274.02142 7909.6777 400.02142 7957.0 526.0214 8004.3223 400.02142 7957.0 274.02142 ] true true -1 GameEntity 7957.0 274.02142 -90.0 1.0 plane5 /assets/planes/plane5.png 1 false 1.0 1.0 0.5 0.5 0.1 5 true [ 7957.0 274.02142 7909.6777 400.02142 7957.0 526.0214 8004.3223 400.02142 7957.0 274.02142 ] true true -1  ]
+SpawnPlanesAction 8481.0 204.0426 0.0015 [ GameEntity 8481.0 204.0426 -90.0 1.0 plane2 /assets/planes/plane2.png 1 false 1.0 1.0 0.5 0.5 0.1 2 true [ 8481.0 204.0426 8458.586 328.5426 8481.0 453.0426 8503.414 328.5426 8481.0 204.0426 ] true true -1 GameEntity 8481.0 204.0426 -90.0 1.0 plane2 /assets/planes/plane2.png 1 false 1.0 1.0 0.5 0.5 0.1 2 true [ 8481.0 204.0426 8458.586 328.5426 8481.0 453.0426 8503.414 328.5426 8481.0 204.0426 ] true true -1 GameEntity 8481.0 204.0426 -90.0 1.0 plane2 /assets/planes/plane2.png 1 false 1.0 1.0 0.5 0.5 0.1 2 true [ 8481.0 204.0426 8458.586 328.5426 8481.0 453.0426 8503.414 328.5426 8481.0 204.0426 ] true true -1  ]
+SpawnPlanesAction 10343.0 199.99994 0.0015 [ GameEntity 10343.0 199.99994 -90.0 1.0 plane4 /assets/planes/plane4.png 1 false 1.0 1.0 0.5 0.5 0.1 4 true [ 10343.0 199.99994 10252.176 350.0 10343.0 500.00006 10433.824 350.0 10343.0 199.99994 ] true true -1 GameEntity 10343.0 199.99994 -90.0 1.0 plane4 /assets/planes/plane4.png 1 false 1.0 1.0 0.5 0.5 0.1 4 true [ 10343.0 199.99994 10252.176 350.0 10343.0 500.00006 10433.824 350.0 10343.0 199.99994 ] true true -1 GameEntity 10343.0 199.99994 -90.0 1.0 plane4 /assets/planes/plane4.png 1 false 1.0 1.0 0.5 0.5 0.1 4 true [ 10343.0 199.99994 10252.176 350.0 10343.0 500.00006 10433.824 350.0 10343.0 199.99994 ] true true -1 GameEntity 10343.0 199.99994 -90.0 1.0 plane4 /assets/planes/plane4.png 1 false 1.0 1.0 0.5 0.5 0.1 4 true [ 10343.0 199.99994 10252.176 350.0 10343.0 500.00006 10433.824 350.0 10343.0 199.99994 ] true true 2  ]
+SpawnPlanesAction 11343.0 212.0 0.0015 [ GameEntity 11343.0 212.0 -90.0 1.0 plane6 /assets/planes/plane6.png 1 false 1.0 1.0 0.5 0.5 0.1 6 true [ 11343.0 212.0 11259.663 350.0 11343.0 488.0 11426.337 350.0 11343.0 212.0 ] true true -1 GameEntity 11343.0 212.0 -90.0 1.0 plane6 /assets/planes/plane6.png 1 false 1.0 1.0 0.5 0.5 0.1 6 true [ 11343.0 212.0 11259.663 350.0 11343.0 488.0 11426.337 350.0 11343.0 212.0 ] true true -1 GameEntity 11343.0 212.0 -90.0 1.0 plane6 /assets/planes/plane6.png 1 false 1.0 1.0 0.5 0.5 0.1 6 true [ 11343.0 212.0 11259.663 350.0 11343.0 488.0 11426.337 350.0 11343.0 212.0 ] true true 0 GameEntity 11343.0 212.0 -90.0 1.0 plane6 /assets/planes/plane6.png 1 false 1.0 1.0 0.5 0.5 0.1 6 true [ 11343.0 212.0 11259.663 350.0 11343.0 488.0 11426.337 350.0 11343.0 212.0 ] true true -1  ]
+SpawnPlanesAction 13943.0 412.5 0.0015 [ GameEntity 13943.0 412.5 -90.0 1.0 plane4 /assets/planes/plane4.png 1 false 1.0 1.0 0.5 0.5 0.1 4 true [ 13943.0 412.5 13938.654 600.0 13943.0 787.5 13947.346 600.0 13943.0 412.5 ] true true -1 GameEntity 13943.0 412.5 -90.0 1.0 plane4 /assets/planes/plane4.png 1 false 1.0 1.0 0.5 0.5 0.1 4 true [ 13943.0 412.5 13938.654 600.0 13943.0 787.5 13947.346 600.0 13943.0 412.5 ] true true 0 GameEntity 13943.0 412.5 -90.0 1.0 plane4 /assets/planes/plane4.png 1 false 1.0 1.0 0.5 0.5 0.1 4 true [ 13943.0 412.5 13938.654 600.0 13943.0 787.5 13947.346 600.0 13943.0 412.5 ] true true -1 GameEntity 13943.0 412.5 -90.0 1.0 plane4 /assets/planes/plane4.png 1 false 1.0 1.0 0.5 0.5 0.1 4 true [ 13943.0 412.5 13938.654 600.0 13943.0 787.5 13947.346 600.0 13943.0 412.5 ] true true -1 GameEntity 13943.0 412.5 -90.0 1.0 plane4 /assets/planes/plane4.png 1 false 1.0 1.0 0.5 0.5 0.1 4 true [ 13943.0 412.5 13938.654 600.0 13943.0 787.5 13947.346 600.0 13943.0 412.5 ] true true 2  ]
+SpawnPlanesAction 14443.0 474.0 0.0015 [ GameEntity 14443.0 474.0 -90.0 1.0 plane5 /assets/planes/plane5.png 1 false 1.0 1.0 0.5 0.5 0.1 5 true [ 14443.0 474.0 14372.068 600.0 14443.0 726.0 14513.932 600.0 14443.0 474.0 ] true true -1 GameEntity 14443.0 474.0 -90.0 1.0 plane5 /assets/planes/plane5.png 1 false 1.0 1.0 0.5 0.5 0.1 5 true [ 14443.0 474.0 14372.068 600.0 14443.0 726.0 14513.932 600.0 14443.0 474.0 ] true true 0 GameEntity 14443.0 474.0 -90.0 1.0 plane5 /assets/planes/plane5.png 1 false 1.0 1.0 0.5 0.5 0.1 5 true [ 14443.0 474.0 14372.068 600.0 14443.0 726.0 14513.932 600.0 14443.0 474.0 ] true true -1 GameEntity 14443.0 474.0 -90.0 1.0 plane5 /assets/planes/plane5.png 1 false 1.0 1.0 0.5 0.5 0.1 5 true [ 14443.0 474.0 14372.068 600.0 14443.0 726.0 14513.932 600.0 14443.0 474.0 ] true true -1  ]
+SpawnPlanesAction 20755.0 282.90912 0.0015 [ GameEntity 20755.0 282.90912 -90.0 1.0 plane7 /assets/planes/plane7.png 1 false 1.0 1.0 0.5 0.5 0.1 7 true [ 20755.0 282.90912 20752.479 399.90912 20755.0 516.9091 20757.521 399.90912 20755.0 282.90912 ] true true 1 GameEntity 20755.0 282.90912 -90.0 1.0 plane7 /assets/planes/plane7.png 1 false 1.0 1.0 0.5 0.5 0.1 7 true [ 20755.0 282.90912 20752.479 399.90912 20755.0 516.9091 20757.521 399.90912 20755.0 282.90912 ] true true -1 GameEntity 20755.0 282.90912 -90.0 1.0 plane7 /assets/planes/plane7.png 1 false 1.0 1.0 0.5 0.5 0.1 7 true [ 20755.0 282.90912 20752.479 399.90912 20755.0 516.9091 20757.521 399.90912 20755.0 282.90912 ] true true -1  ]
+SpawnPlanesAction 21233.0 282.00873 0.0015 [ GameEntity 21233.0 282.00873 -90.0 1.0 plane7 /assets/planes/plane7.png 1 false 1.0 1.0 0.5 0.5 0.1 7 true [ 21233.0 282.00873 21224.367 399.00873 21233.0 516.0087 21241.633 399.00873 21233.0 282.00873 ] true true -1 GameEntity 21233.0 282.00873 -90.0 1.0 plane7 /assets/planes/plane7.png 1 false 1.0 1.0 0.5 0.5 0.1 7 true [ 21233.0 282.00873 21224.367 399.00873 21233.0 516.0087 21241.633 399.00873 21233.0 282.00873 ] true true -1 GameEntity 21233.0 282.00873 -90.0 1.0 plane7 /assets/planes/plane7.png 1 false 1.0 1.0 0.5 0.5 0.1 7 true [ 21233.0 282.00873 21224.367 399.00873 21233.0 516.0087 21241.633 399.00873 21233.0 282.00873 ] true true -1  ]
+SpawnPlanesAction 23420.0 258.49994 0.0015 [ GameEntity 23420.0 258.49994 -90.0 1.0 plane12 /assets/planes/plane12.png 1 false 7.0 7.0 0.5 0.5 0.2 12 true [ 23420.0 258.49994 23359.635 350.0 23420.0 441.50006 23480.365 350.0 23420.0 258.49994 ] true true -1 GameEntity 23420.0 258.49994 -90.0 1.0 plane12 /assets/planes/plane12.png 1 false 7.0 7.0 0.5 0.5 0.2 12 true [ 23420.0 258.49994 23359.635 350.0 23420.0 441.50006 23480.365 350.0 23420.0 258.49994 ] true true -1 GameEntity 23420.0 258.49994 -90.0 1.0 plane12 /assets/planes/plane12.png 1 false 7.0 7.0 0.5 0.5 0.2 12 true [ 23420.0 258.49994 23359.635 350.0 23420.0 441.50006 23480.365 350.0 23420.0 258.49994 ] true true -1  ]
+SpawnPlanesAction 25420.0 249.5 0.0015 [ GameEntity 25420.0 249.5 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 25420.0 249.5 25330.17 350.0 25420.0 450.5 25509.83 350.0 25420.0 249.5 ] true true 2 GameEntity 25420.0 249.5 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 25420.0 249.5 25330.17 350.0 25420.0 450.5 25509.83 350.0 25420.0 249.5 ] true true -1 GameEntity 25420.0 249.5 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 25420.0 249.5 25330.17 350.0 25420.0 450.5 25509.83 350.0 25420.0 249.5 ] true true -1  ]
+SpawnPlanesAction 26420.0 233.0 0.0015 [ GameEntity 26420.0 233.0 -90.0 1.0 plane7 /assets/planes/plane7.png 1 false 1.0 1.0 0.5 0.5 0.1 7 true [ 26420.0 233.0 26414.39 350.0 26420.0 467.0 26425.61 350.0 26420.0 233.0 ] true true -1 GameEntity 26420.0 233.0 -90.0 1.0 plane7 /assets/planes/plane7.png 1 false 1.0 1.0 0.5 0.5 0.1 7 true [ 26420.0 233.0 26414.39 350.0 26420.0 467.0 26425.61 350.0 26420.0 233.0 ] true true -1 GameEntity 26420.0 233.0 -90.0 1.0 plane7 /assets/planes/plane7.png 1 false 1.0 1.0 0.5 0.5 0.1 7 true [ 26420.0 233.0 26414.39 350.0 26420.0 467.0 26425.61 350.0 26420.0 233.0 ] true true -1  ]
+SpawnPlanesAction 27420.0 249.5 0.0015 [ GameEntity 27420.0 249.5 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 27420.0 249.5 27361.059 350.0 27420.0 450.5 27478.941 350.0 27420.0 249.5 ] true true -1 GameEntity 27420.0 249.5 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 27420.0 249.5 27361.059 350.0 27420.0 450.5 27478.941 350.0 27420.0 249.5 ] true true -1 GameEntity 27420.0 249.5 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 27420.0 249.5 27361.059 350.0 27420.0 450.5 27478.941 350.0 27420.0 249.5 ] true true -1  ]
+SpawnPlanesAction 35348.0 260.95197 0.0015 [ GameEntity 35348.0 260.95197 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 35348.0 260.95197 35254.77 364.45197 35348.0 467.95197 35441.23 364.45197 35348.0 260.95197 ] true true -1 GameEntity 35348.0 260.95197 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 35348.0 260.95197 35254.77 364.45197 35348.0 467.95197 35441.23 364.45197 35348.0 260.95197 ] true true -1 GameEntity 35348.0 260.95197 -90.0 1.0 plane9 /assets/planes/plane9.png 1 false 3.0 3.0 1.0 1.0 0.1 9 true [ 35348.0 260.95197 35254.77 364.45197 35348.0 467.95197 35441.23 364.45197 35348.0 260.95197 ] true true -1  ]
+SpawnPlanesAction 36754.0 174.90613 0.0015 [ GameEntity 36754.0 174.90613 -90.0 1.0 plane7 /assets/planes/plane7.png 1 false 1.0 1.0 0.5 0.5 0.1 7 true [ 36754.0 174.90613 36727.52 291.90613 36754.0 408.90613 36780.48 291.90613 36754.0 174.90613 ] true true -1 GameEntity 36754.0 174.90613 -90.0 1.0 plane7 /assets/planes/plane7.png 1 false 1.0 1.0 0.5 0.5 0.1 7 true [ 36754.0 174.90613 36727.52 291.90613 36754.0 408.90613 36780.48 291.90613 36754.0 174.90613 ] true true -1 GameEntity 36754.0 174.90613 -90.0 1.0 plane7 /assets/planes/plane7.png 1 false 1.0 1.0 0.5 0.5 0.1 7 true [ 36754.0 174.90613 36727.52 291.90613 36754.0 408.90613 36780.48 291.90613 36754.0 174.90613 ] true true 1  ]
+SpawnPlanesAction 37200.0 327.16135 0.0015 [ GameEntity 37200.0 327.16135 -90.0 1.0 plane12 /assets/planes/plane12.png 1 false 7.0 7.0 0.5 0.5 0.2 12 true [ 37200.0 327.16135 37169.32 418.66135 37200.0 510.16135 37230.68 418.66135 37200.0 327.16135 ] true true -1 GameEntity 37200.0 327.16135 -90.0 1.0 plane12 /assets/planes/plane12.png 1 false 7.0 7.0 0.5 0.5 0.2 12 true [ 37200.0 327.16135 37169.32 418.66135 37200.0 510.16135 37230.68 418.66135 37200.0 327.16135 ] true true -1 GameEntity 37200.0 327.16135 -90.0 1.0 plane12 /assets/planes/plane12.png 1 false 7.0 7.0 0.5 0.5 0.2 12 true [ 37200.0 327.16135 37169.32 418.66135 37200.0 510.16135 37230.68 418.66135 37200.0 327.16135 ] true true -1  ]
+SpawnPlanesAction 37648.0 164.60406 0.0015 [ GameEntity 37648.0 164.60406 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.025 10 true [ 37648.0 164.60406 37609.062 263.60406 37648.0 362.60406 37686.938 263.60406 37648.0 164.60406 ] true true -1 GameEntity 37648.0 164.60406 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.025 10 true [ 37648.0 164.60406 37609.062 263.60406 37648.0 362.60406 37686.938 263.60406 37648.0 164.60406 ] true true 1 GameEntity 37648.0 164.60406 -90.0 1.0 plane10 /assets/planes/plane10.png 1 false 7.0 7.0 4.0 4.0 0.025 10 true [ 37648.0 164.60406 37609.062 263.60406 37648.0 362.60406 37686.938 263.60406 37648.0 164.60406 ] true true -1  ]
+SpawnPlanesAction 42769.0 466.0 0.0015 [ GameEntity 42769.0 466.0 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 42769.0 466.0 42740.32 600.0 42769.0 734.0 42797.68 600.0 42769.0 466.0 ] true true -1 GameEntity 42769.0 466.0 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 42769.0 466.0 42740.32 600.0 42769.0 734.0 42797.68 600.0 42769.0 466.0 ] true true -1 GameEntity 42769.0 466.0 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 42769.0 466.0 42740.32 600.0 42769.0 734.0 42797.68 600.0 42769.0 466.0 ] true true 2 GameEntity 42769.0 466.0 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 42769.0 466.0 42740.32 600.0 42769.0 734.0 42797.68 600.0 42769.0 466.0 ] true true -1  ]
+SpawnPlanesAction 50720.0 346.43777 0.0015 [ GameEntity 50720.0 346.43777 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 50720.0 346.43777 50677.54 446.93777 50720.0 547.43774 50762.46 446.93774 50720.0 346.43774 ] true true -1 GameEntity 50720.0 346.43777 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 50720.0 346.43777 50677.54 446.93777 50720.0 547.43774 50762.46 446.93774 50720.0 346.43774 ] true true -1 GameEntity 50720.0 346.43777 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 50720.0 346.43777 50677.54 446.93777 50720.0 547.43774 50762.46 446.93774 50720.0 346.43774 ] true true -1  ]
+SpawnPlanesAction 51124.0 151.11108 0.0015 [ GameEntity 51124.0 151.11108 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 51124.0 151.11108 51051.42 251.61108 51124.0 352.11108 51196.58 251.61108 51124.0 151.11108 ] true true 2 GameEntity 51124.0 151.11108 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 51124.0 151.11108 51051.42 251.61108 51124.0 352.11108 51196.58 251.61108 51124.0 151.11108 ] true true -1 GameEntity 51124.0 151.11108 -90.0 1.0 plane8 /assets/planes/plane8.png 1 false 7.0 7.0 4.0 4.0 0.025 8 true [ 51124.0 151.11108 51051.42 251.61108 51124.0 352.11108 51196.58 251.61108 51124.0 151.11108 ] true true -1  ]
