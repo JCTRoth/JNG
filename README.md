@@ -14,7 +14,7 @@ sudo apt install openjdk-8-jdk
 sudo apt install x11-xserver-utils
 sudo apt-get install libopenal-dev
 ```
-and then:
+and then either import the project in eclipse or:
 ```
 ./compile.sh
 ./run.sh
@@ -25,7 +25,7 @@ Make sure to have java installed and javaw and javac in the PATH:
 ```
 set PATH=%PATH%;<path-to-javac.exe-javaw.exe>
 ```
-and then:
+and then either import the project in eclipse or:
 ```
 compile.bat
 run.bat
