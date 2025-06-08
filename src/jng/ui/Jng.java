@@ -34,9 +34,9 @@ public class Jng extends StateBasedGame {
     }
  
     public static void main(String[] args) throws SlickException
-    {	
+    {
     	// Setze den library Pfad abhaengig vom Betriebssystem
-    	if (System.getProperty("os.name").toLowerCase().contains("windows")) { ;
+    	if (System.getProperty("os.name").toLowerCase().contains("windows")) {
     		System.setProperty("org.lwjgl.librarypath",System.getProperty("user.dir") + "/native/windows");
     	} else if (System.getProperty("os.name").toLowerCase().contains("mac")) {
     		System.setProperty("org.lwjgl.librarypath",System.getProperty("user.dir") + "/native/macosx");
