@@ -26,6 +26,7 @@ import jng.enums.Orientation;
 import jng.events.CameraMovementEvent;
 import jng.events.ImprovedCollisionEvent;
 import jng.factories.WeaponFactory;
+import jng.statistics.GameStatistics;
 import jng.ui.Controls;
 import jng.weapons.Weapon;
 import jng.world.WorldManager;
@@ -142,7 +143,7 @@ public class GameEntity extends AbstractEntity {
 	}
 	
 	/**
-	 * Adds the collision event. If called, the entity will collide with structures oder other
+	 * Adds the collision event. If called, the entity will collide with structures or other
 	 * entities of different {@link Orientation} and thereby getting damaged. This can be prevented
 	 * by calling {@link #setInvincible(boolean)}.
 	 */
@@ -211,6 +212,10 @@ public class GameEntity extends AbstractEntity {
 			PlayerPlaneEntity ppe = (PlayerPlaneEntity)this;
 			ae.destroy(stateID);
 			SoundManager.getInstance().playCollectItem();
+
+			// Record collected items in statistics
+			GameStatistics.getInstance().incrementItemsCollected();
+
 			//StateBasedEntityManager.getInstance().removeEntity(stateID, ae);
 			switch(((Item)ae).getType())
 			{
@@ -274,15 +279,28 @@ public class GameEntity extends AbstractEntity {
 		setArmor(Math.max(0.0f, getArmor() - damage));
 		setHealth(Math.max(0.0f, getHealth() - damageHealth));
 		
+		// Record hit in statistics when the entity is hit by a weapon
+		GameStatistics.getInstance().incrementShotsHit();
+
 		if (getHealth() <= 0.0f && !dead)
 		{
+			// Record destroyed enemies in statistics
+			if (this.getOrientation() != Orientation.ALLIED && !(this instanceof PlayerPlaneEntity)) {
+				GameStatistics.getInstance().incrementEnemiesDestroyed();
+			}
+
+			// Record destroyed structures in statistics
+			if (this instanceof Structure) {
+				GameStatistics.getInstance().incrementStructuresDestroyed();
+			}
+
 			if (this instanceof PlayerPlaneEntity)
 			{
 				PlayerPlaneEntity ppe = (PlayerPlaneEntity)this;
 				ppe.setLifes(ppe.getLifes()-1);
 				
-				// if the lifes of a player entity are at 0, the weapons are
-				// reseted and one life gets taken away.
+				// if the lives of a player entity are at 0, the weapons are
+				// reset and one life gets taken away.
 				if (ppe.getLifes() >= 0)
 				{
 					ppe.setWeapons();

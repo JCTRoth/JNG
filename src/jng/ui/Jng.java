@@ -1,5 +1,6 @@
 package jng.ui;
 
+import jdk.jfr.StackTrace;
 import org.lwjgl.LWJGLException;
 import org.lwjgl.opengl.Display;
 import org.lwjgl.opengl.DisplayMode;
@@ -34,16 +35,16 @@ public class Jng extends StateBasedGame {
     }
  
     public static void main(String[] args) throws SlickException
-    {	
+    {
     	// Setze den library Pfad abhaengig vom Betriebssystem
-    	if (System.getProperty("os.name").toLowerCase().contains("windows")) { ;
+    	if (System.getProperty("os.name").toLowerCase().contains("windows")) {
     		System.setProperty("org.lwjgl.librarypath",System.getProperty("user.dir") + "/native/windows");
     	} else if (System.getProperty("os.name").toLowerCase().contains("mac")) {
     		System.setProperty("org.lwjgl.librarypath",System.getProperty("user.dir") + "/native/macosx");
     	} else {
     		System.setProperty("org.lwjgl.librarypath",System.getProperty("user.dir") + "/native/" +System.getProperty("os.name").toLowerCase());
     	}
-    	
+
     	// Setze dieses StateBasedGame in einen App Container (oder Fenster)
         app = new AppGameContainer(new Jng());
         app.setVSync(true);
@@ -52,14 +53,16 @@ public class Jng extends StateBasedGame {
  
         // Lege die Einstellungen des Fensters fest und starte das Fenster
         // (nicht aber im Vollbildmodus)
-        
         app.setDisplayMode(Controls.displayResolution.x, Controls.displayResolution.y, false);
+
+        // List of available Display-Modi (optional)
         try {
         	for (DisplayMode dm : Display.getAvailableDisplayModes())
         		System.out.println(dm.toString());
 		} catch (LWJGLException e) {
 			e.printStackTrace();
 		}
+
         SoundManager.getInstance().setSoundOn(Controls.soundOn);
         app.start();
         
@@ -73,7 +76,7 @@ public class Jng extends StateBasedGame {
 	            try {
 	            	app.setFullscreen(!app.isFullscreen());
 	            } catch (SlickException e) {
-	               Log.error(e);
+                    throw new RuntimeException("Error toggling fullscreen mode", e);
 	            }
 	         }
 	      }

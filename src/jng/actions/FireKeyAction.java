@@ -7,6 +7,7 @@ import org.newdawn.slick.state.StateBasedGame;
 import eea.engine.action.Action;
 import eea.engine.component.Component;
 import jng.entities.GameEntity;
+import jng.statistics.GameStatistics;
 import jng.weapons.Weapon;
 
 public class FireKeyAction implements Action{
@@ -59,6 +60,19 @@ public class FireKeyAction implements Action{
 				if (timeCounter >= 1 / w.getFrequency())
 				{
 					timeCounter = 0;
+
+					// Increment Statics by Weapon Type
+					if (weaponIndex == 0) {
+						GameStatistics.getInstance().incrementMgShotsFired();
+					} else if (weaponIndex == 1) {
+						GameStatistics.getInstance().incrementRocketsFired();
+					} else if (weaponIndex == 2) {
+						GameStatistics.getInstance().incrementBombsDropped();
+					}
+
+					// Allgemeine Schussstatistik
+					GameStatistics.getInstance().incrementShotsFired();
+
 					w.fireWeapon(planeEntity, stateID);
 				}
 			}

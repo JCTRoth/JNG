@@ -1,0 +1,75 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'jng'
+version = '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    flatDir {
+        dirs 'jars'
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'jars', include: ['*.jar'])
+    implementation files(
+        'jars/hamcrest-core-1.3.jar',
+        'jars/hamcrest-library-1.3.jar',
+        'jars/jogg-0.0.7.jar',
+        'jars/jorbis-0.0.15.jar',
+        'jars/junit-4.11.jar',
+        'jars/slick.jar',
+        'jars/eea.jar',
+        'jars/lwjgl.jar'
+    )
+}
+
+application {
+    mainClass = 'jng.ui.Jng'
+}
+
+// Configure resources to include assets directory
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src']
+        }
+        resources {
+            srcDirs = ['assets']
+        }
+    }
+}
+
+// Configure the run task to use the correct system properties
+run {
+    systemProperty 'java.library.path', 'native/linux'
+    systemProperty 'file.encoding', 'Cp1252'
+    workingDir = projectDir
+}
+
+// Create OS-specific run tasks
+task runLinux(type: JavaExec) {
+    group = 'application'
+    description = 'Run the application on Linux'
+    classpath = sourceSets.main.runtimeClasspath
+    mainClass = 'jng.ui.Jng'
+    systemProperty 'java.library.path', 'native/linux'
+    systemProperty 'file.encoding', 'Cp1252'
+    workingDir = projectDir
+}
+
+task runWindows(type: JavaExec) {
+    group = 'application'
+    description = 'Run the application on Windows'
+    classpath = sourceSets.main.runtimeClasspath
+    mainClass = 'jng.ui.Jng'
+    systemProperty 'java.library.path', 'native/windows'
+    systemProperty 'file.encoding', 'Cp1252'
+    workingDir = projectDir
+}
