@@ -24,6 +24,7 @@ import jng.actions.sound.SoundManager;
 import jng.entities.PlayerPlaneEntity;
 import jng.events.CameraMovementEvent;
 import jng.factories.WorldFactory;
+import jng.statistics.GameStatistics;
 import jng.world.World;
 import jng.world.WorldFileManager;
 import jng.world.WorldManager;
@@ -47,10 +48,13 @@ public class GameplayState extends BasicGameState {
 	
 	public static Vector2f cameraPosition;
     
+    private int timeCounter; // Zählt Millisekunden für die Spielzeiterfassung
+
     GameplayState(int sid) {
        stateID = sid;
        gamePaused = false;
        entityManager = StateBasedEntityManager.getInstance();
+       timeCounter = 0;
     }
     
     /**
@@ -146,6 +150,8 @@ public class GameplayState extends BasicGameState {
     	Entity gameWonEntity = new Entity("wonEntity");
     	gameWonEntity.setPosition(new Vector2f(World.getInstance().getWidth()+Controls.displayResolution.x, 0));
     	Event gameWonEvent = new CameraMovementEvent("gameWonEvent", Controls.displayResolution.x, 0.0f);
+
+    	// Danach erst zum GameEndState wechseln
     	gameWonEvent.addAction(new ChangeStateInitAction(Jng.GAMEWON_STATE));
     	gameWonEntity.addComponent(gameWonEvent);
     	entityManager.addEntity(stateID, gameWonEntity);
@@ -164,6 +170,7 @@ public class GameplayState extends BasicGameState {
 				return true;
 			}
 		};
+		// Danach erst zum GameEndState wechseln
 		gameLostEvent.addAction(new ChangeStateInitAction(Jng.GAMELOST_STATE));
 		gameLostEntity.addComponent(gameLostEvent);
 		entityManager.addEntity(stateID, gameLostEntity);
@@ -195,8 +202,16 @@ public class GameplayState extends BasicGameState {
     @Override
 	public void update(GameContainer container, StateBasedGame game, int delta) throws SlickException {
 		// StatedBasedEntityManager soll alle Entities aktualisieren
-    	if (!isGamePaused())
+    	if (!isGamePaused()) {
     		entityManager.updateEntities(container, game, delta);
+
+    		// Spielzeit aktualisieren
+    		timeCounter += delta;
+    		if (timeCounter >= 1000) { // Jede Sekunde
+    			timeCounter -= 1000;
+    			GameStatistics.getInstance().incrementPlayTime();
+    		}
+    	}
     	else if (escEntity != null)
     		escEntity.update(container, game, delta);
     		
